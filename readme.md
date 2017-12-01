@@ -1,6 +1,13 @@
 # Webpack Practice
 This is where I practice using webpack. I will try to explain what npm package I use and what it use for?
 
+
+### Webpack
+| Package | Detail |
+| - | - |
+| webpack | webpack program |
+
+
 ### Transpiling code to ES5
 | Package | Detail |
 | - | - |
@@ -8,12 +15,14 @@ This is where I practice using webpack. I will try to explain what npm package I
 | babel-core | use for parsing, transforming, and generation code |
 | babel-preset-env | set of plugins to use in transforming process |
 
+
 ### CSS management
 | Package | Detail |
 | - | - |
 | css-loader | webpack loader use for reading css code that import to .js file |
 | style-loader | use for injecting css into html |
 | extract-text-webpack-plugin | use for bundle css file into single file |
+
 
 ### Image management
 | Package | Detail |
